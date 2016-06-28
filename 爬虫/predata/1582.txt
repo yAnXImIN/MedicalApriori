@@ -1,0 +1,12 @@
+
+					<h3 class="h_s_cons_title">
+
+												病例分析:可以治愈的。意见建议:你可以针灸配合中药补阳还五汤加减治疗，会好的。
+					</h3>
+					<p class="h_s_cons_main1">大夫郑重提醒：以上建议仅供参考，具体诊疗请到医院在医生指导下进行！</p>
+				</div>
+				<div class="h_s_time">
+					<p class="h_s_time_huifu">高双大夫本人回复</p>发表于：2013-05-06				</div>
+			</div>
+		</div>
+		

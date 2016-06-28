@@ -1,0 +1,12 @@
+
+					<h3 class="h_s_cons_title">
+
+												病例分析:你说的情况像心脏神经官能症，就像女性更年期综合征。意见建议:到当地中医院看看中医吧
+					</h3>
+					<p class="h_s_cons_main1">大夫郑重提醒：以上建议仅供参考，具体诊疗请到医院在医生指导下进行！</p>
+				</div>
+				<div class="h_s_time">
+					<p class="h_s_time_huifu">司马星光大夫本人回复</p>发表于：2012-06-05				</div>
+			</div>
+		</div>
+		
